@@ -1,11 +1,24 @@
 Título (30)
 ===========
+CALLEJERO DIGITAL DE HUELVA
 
 Descripción breve (80)
 ======================
+Aplicación para búsqueda de calles y portales del CDAU en el municipio de Huelva
+
 
 Descripción completa (4000)
 ===========================
+Situada en el extremo sur-occidental de España, Huelva forma parte de la región andaluza y se encuentra limitada al norte por la provincia de Badajoz, al sur por el Océano Atlántico, al este por Sevilla y al oeste por Portugal. Cuenta con más de 300 días de sol al año, que la convierten en una de las provincias españolas con uno de los climas más benignos y mayor número de horas de sol, superando las 3000 horas.
+http://www.huelva.es/turismo/index.php?lang=es 
+La ubicación costera de Huelva y sus características físicas posibilitaron el establecimiento y desarrollo de importantes culturas de origen autóctono y extranjero.
+En la Edad Antigua, el mar sirvió como salida de los recursos de la mina a través de Huelva lo que supuso un atractivo para la instalación en sus tierras de las siguientes civilizaciones: fenicios, griegos, Tartessos, púnicos y romanos.
+En la Edades Media y Moderna, la ciudad cede su florecimiento a la vecina de Saltés, ocupando nuevamente un espacio privilegiado de salida al mar. Con el auge de los conocimientos marinos encabezados por los marineros de la provincia en la Modernidad, la capital se erige, por sus lazos con el mar, en protagonista de la gesta del descubrimiento de América en 1492.
+La Edad Contemporánea viene marcada por la venta de las Minas de Riotinto a los ingleses, lo que supone un nuevo modo de colonización económica y cultural en la época victoriana. La actual configuración de la ciudad viene marcada por el hecho de la presencia inglesa a finales del siglo XIX.
+Por estos argumentos Huelva es y será… “La Puerta del Atlántico”.
+
+
+
 
 Etiquetas	
 ===========
